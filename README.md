@@ -3,7 +3,7 @@ Towers-of-Hanoi-NASM
 
 A Towers of Hanoi puzzle created in NASM.
 
-<b>NOTE:</b> Requires 32-bit GNU/Linux 2.6.18 OS to work
+<b>NOTE:</b> Requires `32-bit GNU/Linux 2.6.18 OS` to work
 
 To run the project (make sure all files are under the same directory or just clone the repo): 
 - Open the directory in terminal
